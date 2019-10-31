@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ohtuesimerkki.StatisticsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-10-31T08:03:02" hostname="jules" time="0.008">
+  <properties/>
+  <testcase name="teamListPalauttaaOikeanmaaranPelaajia" classname="ohtuesimerkki.StatisticsTest" time="0.004"/>
+  <testcase name="hakuPalauttaaNullJosPelaajaaEiOle" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="topScorersPalauttaaOikeatPelaajat" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="topScorersPalauttaaOikeanMaaran" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <testcase name="playerSearchToimii" classname="ohtuesimerkki.StatisticsTest" time="0.0"/>
+  <testcase name="teamListPalauttaaOikeanPelaajan" classname="ohtuesimerkki.StatisticsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
