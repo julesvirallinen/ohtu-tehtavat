@@ -1,8 +1,0 @@
-pekka;akkep
-jukka;akkuj
-user;userpass1
-anssi;vaarasalasana666
-anssi2;vaarasalasana666
-user2;userpass1
-anssi3;vaarasalasana666
-apua;password1
